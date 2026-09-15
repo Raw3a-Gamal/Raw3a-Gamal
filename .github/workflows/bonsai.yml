@@ -15,10 +15,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - name: generate bonsai
         uses: egorthinks/git-bonsai@v1
         with:
-          username: Raw3a-Gamal
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          user: Raw3a-Gamal
+          output-dir: .
+          commit: false
+
       - name: push to bonsai branch
         run: |
           git config --global user.name 'github-actions'
