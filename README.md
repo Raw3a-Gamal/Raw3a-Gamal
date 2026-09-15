@@ -57,6 +57,8 @@ Full loop, one person: **sensor → server → security.**
 ### Grown from commits, not watered nearly enough (for now as well) 🌳
 <img src="https://raw.githubusercontent.com/Raw3a-Gamal/Raw3a-Gamal/bonsai/bonsai.svg" width="400"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raw3a-Gamal&theme=bear&mode=weekly&card_width=430&card_height=90)](https://git.io/streak-stats)
+
 ---
 > "Hardware doesn't lie. Software just lies convincingly."
 >
