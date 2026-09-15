@@ -15,6 +15,15 @@ $ whoami
 Full loop, one person: **sensor → server → security.**
 
 ---
+### Catch me here 
+<p align="left">
+<a href="mailto:raw3abusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rawaa-gamal" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="32" height="28"/>
+</a>
+</p>
+
+---
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
