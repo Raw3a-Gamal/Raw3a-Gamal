@@ -55,11 +55,9 @@ Full loop, one person: **sensor → server → security.**
 ![snake animation](https://github.com/Raw3a-Gamal/Raw3a-Gamal/raw/output/github-snake.svg)
 
 ### Grown from commits, not watered nearly enough (for now as well) 🌳
-![bonsai](https://raw.githubusercontent.com/Raw3a-Gamal/Raw3a-Gamal/bonsai/bonsai.svg)
+<img src="https://raw.githubusercontent.com/Raw3a-Gamal/Raw3a-Gamal/bonsai/bonsai.svg" width="400"/>
 
 ---
 > "Hardware doesn't lie. Software just lies convincingly."
 >
 > — Rawa'a Gamal
-
-`raw3abusiness@gmail.com` · [linkedin](https://linkedin.com/in/rawaa-gamal)
